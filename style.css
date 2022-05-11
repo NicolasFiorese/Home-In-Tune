@@ -137,7 +137,7 @@ header .navigation li a:hover {
   }
   section {
     padding: 40px;
-    background: url(/assets/instrumentos.jpg);
+    background: url(https://user-images.githubusercontent.com/103607839/167772732-f5d16f1c-d6fa-4a5e-9732-bb0006de03d7.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -175,7 +175,7 @@ header .navigation li a:hover {
     position: relative;
     width: 30px;
     height: 30px;
-    background: url(/assets/menu1.svg);
+    background: url(https://user-images.githubusercontent.com/103607839/167772735-e9b14428-bd48-42dc-a82f-35d0e9feb703.svg);
     background-position: center;
     background-size: 30px;
     background-repeat: no-repeat;
@@ -183,7 +183,7 @@ header .navigation li a:hover {
     z-index: 11;
   }
   .toggleMenu.active {
-    background: url(/assets/close.svg);
+    background: url(https://user-images.githubusercontent.com/103607839/167772738-57665f08-adcc-4503-9509-22921c043e11.svg);
     background-position: center;
     background-size: 25px;
     background-repeat: no-repeat;
